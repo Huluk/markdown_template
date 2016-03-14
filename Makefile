@@ -1,7 +1,7 @@
 outfile = report.pdf
 infiles = report.md
 
-# bib = --bibliography.bib
+# bib = --bibliography=bibliography.bib
 
 # opts += --number-sections
 # opts += --table-of-contents # -V toc-depth=2
