@@ -5,6 +5,7 @@ infiles = report.md
 
 # opts += --number-sections
 # opts += --table-of-contents # -V toc-depth=2
+# opts += -A appendix.tex
 # opts += -V geometry:top=2.5cm # need more space
 
 lang = en-GB
